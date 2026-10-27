@@ -1,0 +1,19 @@
+{
+  "name": "ginger-beer",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "https://github.com/bahrus/ginger-beer#readme",
+  "bugs": {
+    "url": "https://github.com/bahrus/ginger-beer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahrus/ginger-beer.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  }
+}
